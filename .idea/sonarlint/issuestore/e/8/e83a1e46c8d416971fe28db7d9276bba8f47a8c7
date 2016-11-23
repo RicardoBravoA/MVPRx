@@ -1,0 +1,17 @@
+
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¸¬êıÿÿÿÿ
+esquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çˆÛ
+fsquid:S00100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŸÅõ
+ksquid:S00100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ¸õúÿÿÿÿ
+fsquid:S00100m"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‹¼¨
+ksquid:S00100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŸ—ÿÿÿÿÿ
+fsquid:S00100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğİ¨‚
+fsquid:S00100y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öúí
+msquid:S00116"PRename this field "_meta" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÔôĞıÿÿÿÿ
+rsquid:S00116K"URename this field "product_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îšßûüÿÿÿÿ
+psquid:S00116N"SRename this field "brand_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ–÷«ûÿÿÿÿ
+ssquid:S00116O"VRename this field "category_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÀ–Öıÿÿÿÿ
+msquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çˆÛ
+ssquid:S00117Y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŒ¸õúÿÿÿÿ
+ssquid:S00117q"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŸ—ÿÿÿÿÿ
+nsquid:S00117y"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öúí

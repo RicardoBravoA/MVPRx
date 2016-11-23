@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPRx</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="error">Mínimo 6 caracteres</string>
+    <string name="message_login">Usuario y/o contraseña incorrectos</string>
+</resources>
